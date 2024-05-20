@@ -1,0 +1,7 @@
+names:
+- dolphin
+- shark
+nc: 2
+test: "C:/Users/tj/Desktop/\uBD88\uB7C9\uAC80\uCD9C/shark/project.v1i.yolov8/test/images"
+train: "C:/Users/tj/Desktop/\uBD88\uB7C9\uAC80\uCD9C/shark/project.v1i.yolov8/train/images/"
+val: "C:/Users/tj/Desktop/\uBD88\uB7C9\uAC80\uCD9C/shark/project.v1i.yolov8/valid/images/"
